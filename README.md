@@ -1,5 +1,4 @@
 # MediQueue(Vibe Coding)
-=======
 ## Project info
 
 **URL**: [https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID](https://clear-wait-flow.lovable.app/)
